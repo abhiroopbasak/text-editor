@@ -1,1 +1,3 @@
-# text-editor
+# Text Editor
+
+### Demonstration of Tkinter Library
